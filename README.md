@@ -1,5 +1,5 @@
 # COVID-19 to Pebble Timeline
-Using the Postman COVID-19 REST API, A Pebble app, and a python script, to let people know just a little bit more on what's happening outside.
+Using the disease.sh api, A Pebble app, and a python script, to let people know just a little bit more on what's happening outside.
 
 ## What's this?
 This is a simple project I'm taking on to create a pebble app to push pins to the pebble timeline.
